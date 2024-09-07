@@ -1,29 +1,33 @@
-<h1 align="center">Hi 👋, I'm Ajmira</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azmira-2023&label=Profile%20views&color=0e75b6&style=flat" alt="azmira-2023" /> </p>
-
-- 🌱 I’m currently learning **Javascripts,React**
-
-- 👯 I’m looking to collaborate on group **Diginie_it**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Azmira-2023](https://github.com/Azmira-2023)
-
-- 💬 Ask me about **React,javascript,Js DOM**
-
-- 📫 How to reach me **azmira.aktar16@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajmira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmira" height="30" width="40" /></a>
-<a href="https://fb.com/ajmira ajmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajmira ajmi" height="30" width="40" /></a>
+<p align="center">
+<!--   <a href=""  target="_blank"> -->
+<img src="https://github.com/user-attachments/assets/7d67bcdf-1873-4ffe-b0c8-7863bd462960" alt="azmira-2023" width="100%" />
+<!-- </a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmira-2023&show_icons=true&locale=en&layout=compact" alt="azmira-2023" /></p>
+## Skills
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/549fd7f6-8d92-42a4-a65e-10cc27e7815b"width="20%"/><img src="https://github.com/user-attachments/assets/b6c2c19b-76ff-49c6-9860-ca032e4a85f6"width="20%"/><img src="https://github.com/user-attachments/assets/d207d3d6-8d96-4635-a0fe-0f318d45f30d"width="20%"/><img src="https://github.com/user-attachments/assets/895454ee-1198-41e6-9a45-028b61ff1aae"width="20%"/><img src="https://github.com/user-attachments/assets/e8dca4eb-ddea-4144-892a-05daa7d97680"width="20%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/59337f6a-cd52-4186-9abc-316a98d3a4bb"width="20%"/><img src="https://github.com/user-attachments/assets/f7cf047c-1d55-4532-a92b-046edebb3ce8"width="20%"/><img src="https://github.com/user-attachments/assets/33f436b9-beb2-4c0a-9c88-bcb3ba90a9f6"width="20%"/><img src="https://github.com/user-attachments/assets/ca0d988e-7003-4a64-ae83-fb022dfa67f2"width="20%"/><img src="https://github.com/user-attachments/assets/035b6e3e-09d2-4187-a22e-f35131436e14"width="20%"/>
+</div>
+    
+## Current Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmira-2023&show_icons=true&locale=en" alt="azmira-2023" /></p>
+<p align="center"  width="100%">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ajmiraajmi&theme=midnight-purple&hide_border=true&border_radius=0&background=020518" alt="GitHub Streak" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmira-2023&" alt="azmira-2023" /></p>
+![WhatsApp Image 2024-09-07 at 4 17 43 PM]()
+![WhatsApp Image 2024-09-07 at 4 17 43 PM(1)](https://github.com/user-attachments/assets/549fd7f6-8d92-42a4-a65e-10cc27e7815b)
+![WhatsApp Image 2024-09-07 at 4 17 43 PM(2)]()
+![WhatsApp Image 2024-09-07 at 4 17 43 PM(3)]()
+![WhatsApp Image 2024-09-07 at 4 17 43 PM(4)]()
+![WhatsApp Image 2024-09-07 at 4 17 43 PM(5)]()
+![WhatsApp Image 2024-09-07 at 4 17 43 PM(6)]()
+![WhatsApp Image 2024-09-07 at 4 17 43 PM(7)]()
+![WhatsApp Image 2024-09-07 at 4 17 43 PM(8)]()
+![WhatsApp Image 2024-09-07 at 4 17 44 PM]()
+![WhatsApp Image 2024-09-07 at 4 17 42 PM]()
