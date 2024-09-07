@@ -19,15 +19,5 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ajmiraajmi&theme=midnight-purple&hide_border=true&border_radius=0&background=020518" alt="GitHub Streak" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmira-2023&" alt="azmira-2023" /></p>
-![WhatsApp Image 2024-09-07 at 4 17 43 PM]()
-![WhatsApp Image 2024-09-07 at 4 17 43 PM(1)](https://github.com/user-attachments/assets/549fd7f6-8d92-42a4-a65e-10cc27e7815b)
-![WhatsApp Image 2024-09-07 at 4 17 43 PM(2)]()
-![WhatsApp Image 2024-09-07 at 4 17 43 PM(3)]()
-![WhatsApp Image 2024-09-07 at 4 17 43 PM(4)]()
-![WhatsApp Image 2024-09-07 at 4 17 43 PM(5)]()
-![WhatsApp Image 2024-09-07 at 4 17 43 PM(6)]()
-![WhatsApp Image 2024-09-07 at 4 17 43 PM(7)]()
-![WhatsApp Image 2024-09-07 at 4 17 43 PM(8)]()
-![WhatsApp Image 2024-09-07 at 4 17 44 PM]()
-![WhatsApp Image 2024-09-07 at 4 17 42 PM]()
+
+
